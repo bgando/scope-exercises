@@ -1,5 +1,5 @@
-#[Extra Credit: Function Scope Exercises](id:xcredit)
-[Back to Contents](#top)
+#[Function Scope Exercises](id:xcredit)
+[Back to Home](https://github.com/bgando/JS102)
 
 
 #####It is your mission to go through the function.js file and change all the `'???'` in such a way that all the tests pass true. 
